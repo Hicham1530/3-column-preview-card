@@ -1,0 +1,49 @@
+.container{
+display: flex;
+gap: .1rem;
+
+}
+
+h1{
+text-transform: uppercase;
+color: white;
+font-family: 'Courier New', Courier, monospace;
+padding: 1rem;
+
+}
+.sedan {
+background-color:#ff5a19;
+
+}
+.suvs {
+background-color: rgb(96, 172, 167);
+}
+.luxury {
+background-color: rgb(9, 93, 74); 
+}
+p{
+color: white;
+padding: 1.5rem ;
+}
+img{
+padding: 1rem;
+}
+.button {
+
+color: white;
+border: 1px solid white;
+display: flex;
+justify-content: center;
+padding: 10px;
+margin-top: 1rem;
+margin-bottom: 1rem;
+margin-right: 3rem;
+margin-left: 3rem;
+border-radius: 15px;
+cursor:pointer;
+
+
+
+
+
+}
