@@ -12,7 +12,7 @@ padding: 1rem;
 
 }
 .sedan {
-background-color:#ff5a19;
+background-color:hsl(31, 77%, 52%);
 
 }
 .suvs {
@@ -41,9 +41,6 @@ margin-right: 3rem;
 margin-left: 3rem;
 border-radius: 15px;
 cursor:pointer;
-
-
-
 
 
 }
